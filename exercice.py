@@ -19,7 +19,7 @@ def prime_integer_summation() -> int:
     primes = []
 
     i=2
-    while len(primes) < 0:
+    while len(primes) < 100:
         is_prime = True
 
         for divider in range(2, int(i**0.5+1)):
