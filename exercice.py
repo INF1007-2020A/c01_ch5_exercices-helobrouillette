@@ -39,7 +39,7 @@ def factorial(number: int) -> int:
 
 
 def use_continue() -> None:
-    pass
+    for i in range(1)
 
 
 def main() -> None:
