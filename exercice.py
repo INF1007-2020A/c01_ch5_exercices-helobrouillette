@@ -44,7 +44,7 @@ def use_continue() -> None:
                 continue
             else:
                 pass
-        
+            print(i)
 
 
 def main() -> None:
